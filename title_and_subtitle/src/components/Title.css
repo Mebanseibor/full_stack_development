@@ -1,0 +1,9 @@
+#title {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+#subtitle {
+  font-size: 1em;
+  font-style: italic;
+}
